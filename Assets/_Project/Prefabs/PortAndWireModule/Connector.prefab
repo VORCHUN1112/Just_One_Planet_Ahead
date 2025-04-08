@@ -912,108 +912,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _connector: {fileID: 2581716396322553914}
   _states:
-  - rid: 2373951305181298691
-  - rid: 2373951305181298692
-  - rid: 2373951305181298693
-  - rid: 2373951399586169126
-  - rid: 2373951305181298695
-  - rid: 2373951399586168869
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
   _selected: 0
   _hold: 0
   _inPortArea: 0
   references:
     version: 2
     RefIds:
-    - rid: 2373951305181298691
-      type: {class: Deselected, ns: JOPA.StateMachine, asm: Assembly-CSharp}
-      data:
-        _name: 
-        _tweenSettings:
-          _duration: 0.1
-          _ease: 6
-          _animateable: {fileID: 8869179035265154971}
-          target: {fileID: 6015575275917166137}
-        OnEntered:
-          m_PersistentCalls:
-            m_Calls: []
-        OnExited:
-          m_PersistentCalls:
-            m_Calls: []
-    - rid: 2373951305181298692
-      type: {class: Selected, ns: JOPA.StateMachine, asm: Assembly-CSharp}
-      data:
-        _name: 
-        _tweenSettings:
-          _duration: 0.2
-          _ease: 6
-          _animateable: {fileID: 8869179035265154971}
-          target: {fileID: 1934032759407117921}
-        OnEntered:
-          m_PersistentCalls:
-            m_Calls: []
-        OnExited:
-          m_PersistentCalls:
-            m_Calls: []
-    - rid: 2373951305181298693
-      type: {class: Drag, ns: JOPA.StateMachine, asm: Assembly-CSharp}
-      data:
-        _name: 
-        _tweenSettings:
-          _duration: 0.1
-          _ease: 1
-          _animateable: {fileID: 8869179035265154971}
-          target: {fileID: 7358053615053378741}
-        OnEntered:
-          m_PersistentCalls:
-            m_Calls: []
-        OnExited:
-          m_PersistentCalls:
-            m_Calls: []
-    - rid: 2373951305181298695
-      type: {class: StartRotate, ns: JOPA.StateMachine, asm: Assembly-CSharp}
-      data:
-        _name: 
-        _tweenSettings:
-          _duration: 0.1
-          _ease: 1
-          _animateable: {fileID: 8869179035265154971}
-          target: {fileID: 0}
-        OnEntered:
-          m_PersistentCalls:
-            m_Calls: []
-        OnExited:
-          m_PersistentCalls:
-            m_Calls: []
-    - rid: 2373951399586168869
-      type: {class: Connected, ns: JOPA.StateMachine, asm: Assembly-CSharp}
-      data:
-        _name: 
-        _tweenSettings:
-          _duration: 0.2
-          _ease: 6
-          _animateable: {fileID: 8869179035265154971}
-          target: {fileID: 0}
-        OnEntered:
-          m_PersistentCalls:
-            m_Calls: []
-        OnExited:
-          m_PersistentCalls:
-            m_Calls: []
-    - rid: 2373951399586169126
-      type: {class: Preconnected, ns: JOPA.StateMachine, asm: Assembly-CSharp}
-      data:
-        _name: 
-        _tweenSettings:
-          _duration: 0.15
-          _ease: 1
-          _animateable: {fileID: 8869179035265154971}
-          target: {fileID: 0}
-        OnEntered:
-          m_PersistentCalls:
-            m_Calls: []
-        OnExited:
-          m_PersistentCalls:
-            m_Calls: []
+    - rid: -2
+      type: {class: , ns: , asm: }
 --- !u!1 &2017016425105754674
 GameObject:
   m_ObjectHideFlags: 0
