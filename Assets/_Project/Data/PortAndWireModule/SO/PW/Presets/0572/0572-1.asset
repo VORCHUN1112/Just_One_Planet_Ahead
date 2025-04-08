@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc89d1c2ed1f54442b1c0dbd0fe882f9, type: 3}
+  m_Name: 0572-1
+  m_EditorClassIdentifier: 
+  _argument: 3
+  _evaluation:
+    _battery:
+      _operator: 0
+      _trueOption: {fileID: 0}
+    _connector:
+      _operator: 0
+      _trueOption: {fileID: 0}
+    _material:
+      _operator: 0
+      _trueOption: {fileID: 11400000, guid: 5f1c3d6b6dc03774f8efe858bd317d7b, type: 2}
+    _serial:
+      _operator: 0
+      _trueOption: {fileID: 0}
+    _result:
+      _resultType: 2
+      _port: {fileID: 0}
+      _portList: []
